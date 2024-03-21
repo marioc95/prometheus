@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VAP", "VAP\VAP.csproj", "{5F63C707-0EBF-4E20-AEA5-F84649763363}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatinToHtml", "LatinToHtml\LatinToHtml.csproj", "{070A38E3-350A-4F25-B4F3-74B55536CBC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F63C707-0EBF-4E20-AEA5-F84649763363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F63C707-0EBF-4E20-AEA5-F84649763363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F63C707-0EBF-4E20-AEA5-F84649763363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F63C707-0EBF-4E20-AEA5-F84649763363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{070A38E3-350A-4F25-B4F3-74B55536CBC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{070A38E3-350A-4F25-B4F3-74B55536CBC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{070A38E3-350A-4F25-B4F3-74B55536CBC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{070A38E3-350A-4F25-B4F3-74B55536CBC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0258003-9D05-44C1-8D15-3C797BAD5EFA}
+	EndGlobalSection
+EndGlobal
